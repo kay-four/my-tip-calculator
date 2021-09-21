@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TipTime</string>
+    <string name="primary_color">Primary color</string>
+    <string name="switch_text">Round Up</string>
+    <string name="rate_the_service_question">How would you rate the service you received?</string>
+    <string name="email_icon">email icon</string>
+    <string name="enter_total_cost">What was the total cost?</string>
+    <string name="it_was_superb">It was superb! (20% tip)</string>
+    <string name="it_was_good_you_know">It was pretty good, you know..(15% tip)</string>
+    <string name="just_okay">Just okay..(the standard 10%)</string>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="your_tip_is">Your Tip is</string>
+</resources>
